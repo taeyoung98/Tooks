@@ -1,6 +1,7 @@
 # tooks
 
 https://119taeyoung.tistory.com/28<br>
+https://119taeyoung.tistory.com/29<br>
 
 Learn How to use React Hooks in 10 min<br>
 https://youtu.be/yS-BU6eYUDE
@@ -13,7 +14,7 @@ https://youtu.be/sZDvByH2mNU
 ### Collection of sexy React Hooks ready to install with NPM
 ----- 
 - [ ] useTitle
-- [ ] useInput
+- [x] useInput
 - [ ] usePageLeave
 - [ ] useClick
 - [ ] useFadeIn
@@ -22,7 +23,7 @@ https://youtu.be/sZDvByH2mNU
 - [ ] useNetwork
 - [ ] useNotification
 - [ ] useScroll
-- [ ] useTabs
+- [x] useTabs
 - [ ] usePreventLeave
 - [ ] useConfirm
 - [ ] useAxios
